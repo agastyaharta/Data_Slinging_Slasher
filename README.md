@@ -17,7 +17,7 @@ Dataset: https://www.kaggle.com/datasets/prachi13/customer-analytics
 ## Context
 An international e-commerce company based wants to discover key insights from their customer database. They want to use some of the most advanced machine learning techniques to study their customers. The company sells electronic products.
 
-## Content
+## Dataset Explanation
 The dataset used for model building contained 10999 observations of 12 variables.
 The data contains the following information:
 
