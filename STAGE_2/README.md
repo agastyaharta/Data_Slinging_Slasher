@@ -10,4 +10,6 @@ Jadi di stage inituh berisi data preprocessing sebelum ML gitu guys. Data cleani
 
 ## Data Engineering
 
-* Cari ide feature baru wkwkkw
+* Cari ide feature baru wkwkkw, yang udah kepikiran:
+  * Profit = cost_of_the_product - discount
+  * Palagi yak
