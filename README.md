@@ -12,9 +12,6 @@ Data Set: E-Commerce
 6. Arsya Chairani
 7. Riyandhika
 
-
-Dataset:
-https://www.kaggle.com/datasets/prachi13/customer-analytics
 Dataset: https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 ## Context
