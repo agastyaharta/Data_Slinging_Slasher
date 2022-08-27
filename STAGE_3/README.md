@@ -29,3 +29,8 @@ Dari semua project yang telah dilakukan dari stage 1 hingga stage 3, upload proj
 * C. Buatlah file README dengan ringkas pada repository tersebut
 
 Untuk file README, dapat merupakan summary yang telah didapatkan dari stage 1 hingga stage 3
+
+Terdapat 3 algoritma pada masing-masing dataset yang bersifat "Best Fit:"
+AdaBoost (Arsya) - Capfiltered 0.76
+Logistic Regression - Capfiltered 0.72
+Support Vector Classification - X_Train 0.72
